@@ -23,7 +23,11 @@ public class AutoDemo {
 	
 	
 	
-	
+	public static void divNum(){
+		
+		System.out.println(2/1);
+		
+	}
 	
 	
 	
