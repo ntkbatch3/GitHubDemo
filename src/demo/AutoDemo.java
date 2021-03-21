@@ -1,5 +1,6 @@
 package demo;
 
+//format your code before pushing....
 public class AutoDemo {
 	
 	public static void main(String[] args) {
