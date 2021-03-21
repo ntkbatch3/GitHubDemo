@@ -7,6 +7,15 @@ public class AutoDemo {
 		System.out.println("This commit is done by different automation team member");
 		
 		System.out.println("Hello World");
+		
+		addNum();
+	}
+	
+	
+	//sprint 8 task
+	
+	public static void addNum() {
+		System.out.println(10+12);
 	}
 
 }
